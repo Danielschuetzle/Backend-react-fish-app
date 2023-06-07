@@ -5,25 +5,25 @@ This is a simple fish shop web application built using Next.js, Mongoose, MongoD
 ## 🚀 Getting Started
 
 1. Clone the repository:
-   \`\`\`
+   \
    git clone https://github.com/danielschuetzle/backend-react-fish-app.git
-   \`\`\`
+   \
 
 2. Navigate into the directory and install the dependencies:
-   \`\`\`
+   \
    cd fish-shop-app
    npm install
-   \`\`\`
+   \
 
 3. Add a `.env.local` file in the root of your project to add the connection string to your MongoDB database:
-   \`\`\`
+   \
    MONGODB_URI=mongodb://localhost:27017/fish-shop
-   \`\`\`
+   \
 
 4. Start the development server:
-   \`\`\`
+   \
    npm run dev
-   \`\`\`
+   \
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
